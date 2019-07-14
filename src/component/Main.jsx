@@ -11,7 +11,7 @@ export default () => (
     <SelfIntro />
     <Container>
       <Works />
-      <PersonalProjects />
+      {/* <PersonalProjects /> */}
     </Container>
     <Footer />
   </div>

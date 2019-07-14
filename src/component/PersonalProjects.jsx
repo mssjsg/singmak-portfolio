@@ -15,8 +15,8 @@ export default () => (
         <Card.Body>
           <Card.Title>Fleetship</Card.Title>
           <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
+            <p>Developed and maintained Android apps, frontend websites and the backend for internal projects</p>
+            <p>In this job, I spent most of my time with Javascripts and the AWS services such as Lambda, Elasticsearch, etc</p>
           </Card.Text>
         </Card.Body>
       </Card>
@@ -24,8 +24,19 @@ export default () => (
         <Card.Body>
           <Card.Title>M800</Card.Title>
           <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+            <ul>
+              <li>
+                Designed and implemented new features for an Android instant messaging / VOIP app
+              </li>
+              <li>
+                Designed, documented and implemented new API for SDK products
+                 (for internal uses and selling to customers) for the Android mobile platform.
+              </li>
+              <li>
+                Wrote Unit tests with JUnit, Mockito and Robolectric for new features
+                 and existing codebase
+              </li>
+            </ul>
           </Card.Text>
         </Card.Body>
       </Card>
